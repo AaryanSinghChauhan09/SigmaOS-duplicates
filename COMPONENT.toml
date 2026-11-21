@@ -1,0 +1,10 @@
+[component]
+name = "SigmaOS-duplicates"
+description = "Component extracted from SigmaOS-system monolith"
+
+[contract]
+provides = []
+depends_on = []
+
+[maturity]
+level = "beta"
