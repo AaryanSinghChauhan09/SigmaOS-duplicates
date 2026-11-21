@@ -1,0 +1,6 @@
+[package]
+name = "sigmaos-duplicates"
+version = "0.1.0"
+edition = "2021"
+description = "Duplicate file finder extracted from SigmaOS-system"
+license = "MIT OR Apache-2.0"
